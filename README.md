@@ -1,6 +1,7 @@
 
 # Write-a-Data-Science-Blog-Post
 A Udacity Data Scientist Nanodegree Project
+For the blog post: https://medium.com/@keegancwinchester/analysis-of-apps-on-the-appstore-f88203b5758a?sk=d996404dbe6d06f04d768a2cea30eeac
 
 ### Table of Contents
 
